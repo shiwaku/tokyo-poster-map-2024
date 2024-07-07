@@ -10,3 +10,4 @@ tippecanoe -zg -o all.pmtiles --drop-densest-as-needed all.geojson
 ![image](https://github.com/shiwaku/tokyo-poster-map-2024/assets/173521310/5ba5bacb-3d4e-4f49-843e-266bdc5b500d)
 
 - [kepler.gl](https://shiwaku.github.io/tokyo-poster-map-2024/kepler.gl.html)
+![image](https://github.com/shiwaku/tokyo-poster-map-2024/assets/173521310/298742fa-ace3-4828-b4dc-43c0a1840a26)
