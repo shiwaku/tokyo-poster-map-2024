@@ -1,6 +1,6 @@
-- PMTiles
+## PMTiles
 ```
 tippecanoe -zg -o all.pmtiles --drop-densest-as-needed all.geojson
 ```
-- Demo
-  - PMTiles Viwer
+## Demo
+- PMTiles Viwer
