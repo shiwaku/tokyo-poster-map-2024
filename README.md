@@ -2,5 +2,5 @@
 ```
 tippecanoe -zg -o all.pmtiles --drop-densest-as-needed all.geojson
 ```
-
-- PMTiles Viwer
+- Demo
+  - PMTiles Viwer
